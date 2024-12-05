@@ -29,7 +29,7 @@ function AskQuestionPage() {
       <main className="flex-1 flex pt-[80px] px-6">
         {/* Form Section */}
         <div className="max-w-3xl w-full mx-auto">
-          <h1 className="text-3xl font-extrabold text-gray-900 mb-6">Ask a public question</h1>
+          <h1 className="text-3xl font-extrabold text-gray-900 mb-6">Ask a question</h1>
 
           {/* Title Input */}
           <div className="mb-6">
